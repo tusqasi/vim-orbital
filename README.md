@@ -44,6 +44,7 @@ Installation
   *  [NeoBundle][2] - `NeoBundle 'fcpg/vim-orbital'`
   *  [Vundle][3] - `Plugin 'fcpg/vim-orbital'`
   *  [Plug][4] - `Plug 'fcpg/vim-orbital'`
+  *  [Packer][5] - `use "fcpg/vim-orbital"`
   *  manual - copy all of the files into your `~/.vim` directory
 2. Append the following line to your .vimrc file:
 ```VimL
@@ -79,3 +80,4 @@ License
 [2]: https://github.com/Shougo/neobundle.vim
 [3]: https://github.com/gmarik/vundle
 [4]: https://github.com/junegunn/vim-plug
+[5]: https://github.com/wbthomason/packer.nvim 
